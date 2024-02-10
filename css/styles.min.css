@@ -6,6 +6,9 @@
 	display: none;
 }
 
+::selection {
+    background-color: #FF; /* Seçim arka plan rengi */
+
 .ui-helper-hidden-accessible {
 	border: 0;
 	clip: rect(0 0 0 0);
