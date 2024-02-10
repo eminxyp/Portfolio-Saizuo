@@ -6,8 +6,6 @@
 	display: none;
 }
 
-::selection {
-    background-color: #008000; /* Seçim arka plan rengi */
 
 .ui-helper-hidden-accessible {
 	border: 0;
