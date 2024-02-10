@@ -5,6 +5,8 @@
 * Copyright jQuery Foundation and other contributors; Licensed MIT */.ui-helper-hidden {
 	display: none;
 }
+::selection {
+    background-color: #03C03C; /* Seçim arka plan rengi */
 
 
 .ui-helper-hidden-accessible {
