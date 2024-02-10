@@ -7,7 +7,7 @@
 }
 
 ::selection {
-    background-color: #FF; /* Seçim arka plan rengi */
+    background-color: #00800; /* Seçim arka plan rengi */
 
 .ui-helper-hidden-accessible {
 	border: 0;
